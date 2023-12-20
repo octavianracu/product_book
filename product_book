@@ -1,5 +1,5 @@
 
-#1 __init__ - funcția magică pentru inițializarea obiectului
+#1 __init__ - metoda magică pentru inițializarea obiectului
 #2 self este argumentul implicit, care leagă clasa de obiect
 
 class Product:
